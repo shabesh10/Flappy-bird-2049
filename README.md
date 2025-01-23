@@ -1,6 +1,6 @@
 # FLAPPY BIRD: 2049
 
-#### Video Demo:  https://www.youtube.com/watch?v=N6ZacDzucbw
+
 
 #### Description: 
 
