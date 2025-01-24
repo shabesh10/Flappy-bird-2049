@@ -1,7 +1,7 @@
 # FLAPPY BIRD: 2049
 
 ## Description: 
-This project is a simple clone of the Flappy Bird game built using java swing with some changes anad additions. This game replicates the original gameplay mechanics, including the iconic pipe obstacles.
+This project is a simple clone of the Flappy Bird game built using java swing with some changes and additions. This game replicates the original gameplay mechanics, including the iconic pipe obstacles.
 
 ## Features
 - Smooth, physics-based gameplay
@@ -32,7 +32,7 @@ This project is a simple clone of the Flappy Bird game built using java swing wi
    - Easily extendable for new features like additional levels, power-ups, or multiplayer modes.
 
 
-## 7. **Gameplay Instructions**  
+## **Gameplay Instructions**  
 ### How to Play
 1. Press [Spacebar] to make the bird flap.
 2. Avoid hitting the pipes and the ground.
