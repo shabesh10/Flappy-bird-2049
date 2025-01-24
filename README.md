@@ -43,5 +43,5 @@ This project is a simple clone of the Flappy Bird game built using java swing wi
 - Inspired by the original Flappy Bird by Dong Nguyen.
 - Background music by [[Free music from youtube](https://youtu.be/mRN_T6JkH-c?si=SPlfXmYCCxB50TCt)].
 
-#### Conclusion
+## Conclusion
 This project blends nostalgia with modern design principles, offering a visually captivating and engaging gaming experience. With its dystopian narrative and polished mechanics, it stands out as a fresh take on the classic Flappy Bird game.
